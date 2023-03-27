@@ -1,0 +1,7 @@
+RENCANA KONTENT
+
+- Javascript
+  * ES6
+  * Framework Javascript
+- C#
+- Vlogs
